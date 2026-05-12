@@ -11,13 +11,6 @@ Based on:
 
 This reviewer is written as a teaching guide, not just a summary. It follows the topics from the PDFs and explains them in beginner-friendly language.
 
----
-
-# How to Use This Reviewer Tonight
-
-1. Read the `Most Likely to Appear in the Exam` box at the end of each major topic first.
-2. Then study the concept explanations and code walkthroughs.
-3. Lastly, test yourself by covering the answers and explaining each code block out loud.
 
 Memory rule:
 
